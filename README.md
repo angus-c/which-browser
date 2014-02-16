@@ -1,0 +1,1 @@
+Browser detector based on http://www.javascripter.net/faq/browsern.htm
